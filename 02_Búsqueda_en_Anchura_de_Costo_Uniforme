@@ -1,4 +1,4 @@
- Enfoque 1: Busqueda en anchura de costo uniforme
+# Enfoque 1: Busqueda en anchura de costo uniforme
 # Autor: Sofia Galilea Morales Bejarano 6°E
 
 # El objetivo de este programa es encontrar la ruta más corta desde un nodo inicial hasta un nodo objetivo dentro de un grafo.
