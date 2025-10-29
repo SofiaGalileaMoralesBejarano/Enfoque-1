@@ -1,11 +1,7 @@
 # Enfoque 1: Busqueda de profundidad
 # Autor: Sofia Galilea Morales Bejarano 6°E
 
-# En este programa se usa la búsqueda en profundidad (DFS),
-# la cual explora un camino hasta el fondo antes de retroceder.
-# Sirve para encontrar una ruta desde un nodo inicial hasta uno
-# objetivo dentro de un grafo, recorriendo los caminos de forma
-# recursiva (o sea, que la función se llama a sí misma).
+# En este programa se usa la búsqueda en profundidad (DFS), la cual explora un camino hasta el fondo antes de retroceder.
 
 class Graph:
     def __init__(self):
