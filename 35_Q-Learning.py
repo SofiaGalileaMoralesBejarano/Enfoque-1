@@ -4,7 +4,7 @@
 # Objetivo:
 
 # Implementa Q-Learning, un método de aprendizaje por refuerzo activo que actualiza la tabla Q(s, a) mediante la ecuación de Bellman, 
-# usando α como tasa de aprendizaje y ε para equilibrar exploración y explotación.
+# usando α como tasa de aprendizaje y ε para equilibrar exploración y explotación. 
 
 
 # Inicio:
