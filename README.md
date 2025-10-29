@@ -1,4 +1,4 @@
-# Enfoque-1
+# Enfoque - 1
 
 ### Objetivo:
 ### En esta sección del Enfoque 1 se abordarán los temas:
