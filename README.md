@@ -10,3 +10,6 @@
 #### 5- Búsqueda en Profundidad Iterativa
 #### 6- Búsqueda Bidireccional
 #### 7- Búsqueda en Grafos
+
+## Autora: Sofia Galilea Morales Bejarano 6°E
+## Ingeniería Mecatrónica
